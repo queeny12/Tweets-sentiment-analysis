@@ -28,7 +28,6 @@ Analyzing reaction to tweets using TextBlob
     
     
 ## Create your twitter app **[here](https://developer.twitter.com/en/apps)**
-![screen shot 2019-02-24 at 12 58 21 pm](https://user-images.githubusercontent.com/24802515/53305293-b8b78300-3834-11e9-9942-a7f10003f070.png)
 
 ##### And You're all set
 
